@@ -1,2 +1,2 @@
-EMAIL_SENDER = "your_email@example.com"
-EMAIL_PASSWORD = "your_email_password"
+EMAIL_SENDER = "abhi.nskd@gmail.com"
+EMAIL_PASSWORD = "Abhi@7767"
