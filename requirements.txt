@@ -1,5 +1,10 @@
-streamlit
-sqlite3
-smtplib
-email
-datetime
+keras==3.6.0
+matplotlib==3.10.0
+numpy==2.0.2
+pandas==2.2.3
+scikit_learn==1.6.1
+seaborn==0.13.2
+statsmodels==0.14.2
+streamlit==1.41.1
+yfinance==0.2.52
+tensorflow==2.18.0
